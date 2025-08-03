@@ -13,7 +13,7 @@ A simple animated half-circle loader with a vibrant rainbow gradient effect usin
 
 ---
 
-## 🎬 [Demo]()
+## 🎬 [Demo](https://linschmitz.github.io/RainbowLoader/)
 
 ---
 
